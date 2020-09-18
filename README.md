@@ -19,3 +19,6 @@ Apply for a valid license from [Dynamsoft customer portal](https://www.dynamsoft
     ![Salesforce barcode reader](https://www.dynamsoft.com/codepool/wp-content/uploads/2020/09/salesforce-barcode-reader.png)
     
     ![decode barcodes from camera video stream](https://www.dynamsoft.com/codepool/wp-content/uploads/2020/09/salesforce-decode-video.png)
+
+## Blog
+[How to Build a Barcode Reader App for Salesforce AppExchange](https://www.dynamsoft.com/codepool/salesforce-appexchange-barcode-reader-app.html)
